@@ -37,7 +37,7 @@ void copyText(String copyText) {
 }
 
 String generateUrl(String name, String ip, String port) {
-  return "https://suinua.github.io/AddExternalServer/?name=${name}&ip=${ip}&port=${port}";
+  return "https://nakataardnta.github.io/AddExternalServer/?name=${name}&ip=${ip}&port=${port}";
 }
 
 
