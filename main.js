@@ -4348,7 +4348,7 @@
       t3 = nameElement.value;
       t4 = ipElement.value;
       t5 = portElement.value;
-      urlTextArea.textContent = "https://nakataardnta.github.io/AddExternalServer/?name=" + H.S(t3) + "&ip=" + H.S(t4) + "&port=" + H.S(t5);
+      urlTextArea.textContent = "https://nakataardnta.github.io/AutoAddExternal/?name=" + H.S(t3) + "&ip=" + H.S(t4) + "&port=" + H.S(t5);
       nameElement = t2._as(t1.querySelector("#name"));
       ipElement = t2._as(t1.querySelector("#ip"));
       portElement = t2._as(t1.querySelector("#port"));
